@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loadings.LazyLoading", "Loadings.LazyLoading\Loadings.LazyLoading.csproj", "{DD7F72C5-5CFF-4322-B28A-D7272C451A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7F72C5-5CFF-4322-B28A-D7272C451A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7F72C5-5CFF-4322-B28A-D7272C451A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7F72C5-5CFF-4322-B28A-D7272C451A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7F72C5-5CFF-4322-B28A-D7272C451A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D09BF2D-5B84-4F2E-9069-AA69434C9750}
+	EndGlobalSection
+EndGlobal
